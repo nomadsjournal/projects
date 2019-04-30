@@ -1,5 +1,5 @@
 ## Predicting Housing Price Using Population Data
-See how the population change affects the housing prices. 
+See how population change affects housing prices. 
 
 ## Background
 Since the 2008 recession, the real estate market has been steadily recovering. 
