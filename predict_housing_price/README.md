@@ -34,3 +34,8 @@ Therefore, I want to see how the population change affects the housing prices.
 ## Project Description
 Using the population data by age group and the median housing sale price from Zillow, I was able to predict 
 the 2017 housing prices using regression models. You can see my results in the .pdf file attached in this folder.
+
+## SOURCES
+HTTPS://WWW.CENSUS.GOV
+HTTPS://WWW.ZILLOW.COM/RESEARCH/DATA/
+HTTPS://WWW.ZILLOW.COM/RESEARCH/HOME-SALES-METHODOLOGY-7733/
